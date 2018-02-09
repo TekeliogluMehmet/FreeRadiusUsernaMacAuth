@@ -1,0 +1,2 @@
+1C-1A-C0-07-43-B5
+	Reply-Message = "Device with MAC Address %{Calling-Station-ID} authorized for network access"

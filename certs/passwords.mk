@@ -1,0 +1,5 @@
+PASSWORD_SERVER	= 'whatever'
+PASSWORD_CA	= 'whatever'
+PASSWORD_CLIENT	= 'whatever'
+USER_NAME	= 'sistem@finder.com.tr'
+CA_DEFAULT_DAYS  = '360'
